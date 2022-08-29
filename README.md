@@ -1,10 +1,4 @@
-# Apache-Kafka-Publish-Subscribe
-Implementación de un sistema de mensajería con Apache Kafka y Spring Kafka.
+# Kafka with Spring Boot 
 
-Implementación POC de un sistema de mensajería con Apache Kafka. 
+Basic implementation of Kafka producer and consumer, using Spring Boot. 
 
-Breve introducción a Apache Kafka: http://codeflex.co/what-is-apache-kafka/
-
-Sobre pub-sub: https://www.youtube.com/watch?v=O1PgqUqZKTA
-
-Sobre Kafka Spring: https://www.baeldung.com/spring-kafka
